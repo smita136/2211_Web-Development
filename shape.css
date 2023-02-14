@@ -4,6 +4,7 @@
     background-color: whitesmoke;
     margin-left: 365px;
     margin-top: 60px;
+    padding-bottom: 5%;
 }
 p {
     text-indent: -50px;
@@ -15,6 +16,7 @@ p {
     background-color: whitesmoke;
     margin-left: 365px;
     margin-top: 20px;
+    padding-bottom: 5%;
 }
 .rect3 {
     height: 70%;
@@ -23,4 +25,5 @@ p {
     margin-left: 365px;
     margin-top: 20px;
     margin-bottom: 60px;
+    padding-bottom: 5%;
 }
