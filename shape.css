@@ -1,6 +1,6 @@
 .rect1 {
-    height: 370px;
-    width: 900px;
+    height: auto;
+    width: 65%;
     background-color: whitesmoke;
     margin-left: 365px;
     margin-top: 60px;
@@ -10,15 +10,15 @@ p {
     padding-left: 50px;
 }
 .rect2 {
-    height: 410px;
-    width: 900px;
+    height: 75%;
+    width: 65%;
     background-color: whitesmoke;
     margin-left: 365px;
     margin-top: 20px;
 }
 .rect3 {
-    height: 240px;
-    width: 900px;
+    height: 70%;
+    width: 65%;
     background-color: whitesmoke;
     margin-left: 365px;
     margin-top: 20px;
