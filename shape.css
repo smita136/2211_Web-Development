@@ -2,8 +2,9 @@
     height: auto;
     width: 67%;
     background-color: whitesmoke;
-    margin-left: 365px;
-    margin-top: 60px;
+    margin-left: 28%;
+    margin-right: 27%;
+    margin-top: 5%;
     padding-bottom: 5%;
 }
 
@@ -11,8 +12,9 @@
     height: 75%;
     width: 67%;
     background-color: whitesmoke;
-    margin-left: 365px;
-    margin-top: 20px;
+    margin-left: 28%;
+    margin-right: 27%;
+    margin-top: 3%;
     padding-bottom: 5%;
 }
 
@@ -20,8 +22,8 @@
     height: 70%;
     width: 67%;
     background-color: whitesmoke;
-    margin-left: 365px;
-    margin-top: 20px;
-    margin-bottom: 60px;
+    margin-left: 28%;
+    margin-right: 27%;
+    margin-top: 3%;
     padding-bottom: 5%;
 }
